@@ -72,7 +72,6 @@ public class conversionActivity extends AppCompatActivity {
             public void onClick(View v) {
                 txtCantidad.setText("");
                 lblResultado.setText("Resultado:");
-                radioGroup.clearCheck();
                 rdbCel.setChecked(true);
             }
         });

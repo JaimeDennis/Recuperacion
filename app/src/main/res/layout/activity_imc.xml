@@ -26,14 +26,14 @@
             android:layout_height="wrap_content"
             android:id="@+id/txtAlturaM"
             android:hint="Altura (m)"
-            android:inputType="numberDecimal" />
+            android:inputType="number" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtAlturacm"
             android:hint="Altura (cm)"
-            android:inputType="numberDecimal" />
+            android:inputType="number" />
 
         <TextView
             android:layout_width="match_parent"
